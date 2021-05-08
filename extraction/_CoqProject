@@ -27,6 +27,8 @@ theories/ExpandBranches.v
 theories/ExtractExtraction.v
 theories/Extraction.v
 theories/ExtractionCorrectness.v
+theories/FutharkExtract.v
+theories/FutharkPretty.v
 theories/Inlining.v
 theories/LPretty.v
 theories/LiquidityExtract.v

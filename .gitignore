@@ -61,6 +61,9 @@ extraction/examples/liquidity-extract/tests/*
 extraction/examples/midlang-extract/*
 extraction/examples/midlang-extract/tests/*
 
+## Futhark tests
+extraction/examples/futhark-extract/*
+
 .coq-native/
 .csdp.cache
 .lia.cache
